@@ -1,102 +1,136 @@
-<h1 align="center">Hi 👋, I'm Kasturi Talewar</h1>
+# Hi 👋, I'm Kasturi Talewar
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Hi%2C+I+am+Kasturi+Talewar;Python+%7C+GenAI+%7C+RAG+%7C+SQL;Building+Practical+AI+Projects" alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=650&lines=Hi%2C+I+am+Kasturi+Talewar;Python+%7C+Generative+AI+%7C+RAG+%7C+SQL;Exploring+Agentic+AI+%7C+AWS+%7C+Docker;Building+Practical+AI+Applications" alt="Typing SVG" />
 
-<p align="center">
-  Final-year Electronics & Telecommunication Engineering student passionate about
-  <b>Python, Generative AI, RAG and intelligent applications.</b><br>
-  I enjoy turning ideas into practical projects, learning new AI technologies
-  and continuously improving my problem-solving skills.
-</p>
+I am a **final-year Electronics & Telecommunication Engineering student** with a strong interest in **Python, Generative AI, Retrieval-Augmented Generation (RAG), SQL and AI-powered application development**.
 
-<p align="center">
-  🚀 Exploring <b>Agentic AI, LangChain, AWS Cloud , Docker & Advanced RAG</b>
-</p>
+I enjoy learning technologies by building practical projects and understanding how different components work together — from **LLMs, embeddings and vector databases** to APIs, deployment and cloud fundamentals.
 
----
+My current focus is on strengthening my programming foundations while exploring **Agentic AI, LangChain, RAG architectures, AWS, Docker and modern AI development workflows**.
 
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-6C63FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/FAISS-Vector%20Search-009688?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
+- 🔭 Currently building and improving **AI-powered applications**
+- 🌱 Learning **Agentic AI, Advanced RAG, AWS, Docker & Cloud**
+- 💻 Practicing **Python, SQL and problem solving**
+- 🤖 Interested in **Generative AI, LLMs and intelligent assistants**
+- ⚙️ Exploring how AI applications move from **development to deployment**
+- 📚 I prefer learning through **projects, experimentation and hands-on implementation**
+- 🚀 My goal is to continuously improve and build useful real-world applications
 
 ---
 
-## 🚀 Featured Projects
+# 🛠️ Tech Stack
 
-### 🤖 CareerForge AI
-AI-powered Resume Analyzer that evaluates ATS score, detects skill gaps and provides personalized career guidance.
+<img src="https://skillicons.dev/icons?i=python,mysql,aws,docker,git,github,vscode" />
 
-**Tech:** `Python` `Streamlit` `Gemini` `PyPDF2` `ReportLab`
+<br>
 
-### 🍽️ RAG-Based AI Assistant
-A Retrieval-Augmented Generation chatbot that answers questions using custom business knowledge with semantic search and vector retrieval.
-
-**Tech:** `Python` `LangChain` `FAISS` `HuggingFace Embeddings` `Gemini` `Streamlit`
-
-### 💬 Jarvis AI Chatbot
-Conversational AI chatbot powered by Google Gemini with interactive chat and basic conversation memory.
-
-**Tech:** `Python` `Streamlit` `Google Gemini API`
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kasturitalewar&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasturitalewar&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kasturitalewar&theme=tokyonight&hide_border=true" />
-</p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-6C63FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Agentic%20AI-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/FAISS-Vector%20Search-009688?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 
 ---
 
-## 📈 Contribution Activity
+# 🧠 Areas I'm Exploring
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kasturitalewar&theme=tokyo-night&hide_border=true" />
-</p>
+### Generative AI & LLMs
+- Large Language Models
+- Prompt Engineering
+- Google Gemini API
+- AI-powered application development
+- Context-aware conversational systems
+
+### Retrieval-Augmented Generation
+- Document loading and preprocessing
+- Chunking strategies
+- Embeddings
+- Semantic search
+- Vector databases
+- FAISS
+- Context retrieval
+- LLM response generation
+
+### Agentic AI
+- AI agents
+- Tool usage
+- Multi-step workflows
+- Agent reasoning patterns
+- Agentic application architecture
+- Exploring MCP and tool-connected AI systems
+
+### Development & Deployment
+- Python application development
+- Streamlit interfaces
+- Git & GitHub
+- Docker fundamentals
+- AWS and cloud fundamentals
+- Environment variables and API integration
+- Application deployment
 
 ---
 
-## 🌱 Currently Learning
+# 🚀 Featured Projects
 
-<p align="center">
-  <b>Agentic AI • Advanced RAG • LangChain • MCP • Cloud • DSA</b>
-</p>
+## 🤖 CareerForge AI — AI Resume Analyzer
+
+An AI-powered resume analysis application designed to help users understand how well their resume matches a target role and where they can improve.
+
+### Key Features
+- ATS-style resume analysis
+- Skill identification
+- Missing skill detection
+- Career roadmap generation
+- Strength and weakness analysis
+- Interview question generation
+- Project recommendations
+- PDF report generation
+
+### Tech Stack
+`Python` `Streamlit` `Google Gemini` `PyPDF2` `python-docx` `ReportLab`
 
 ---
 
-## 🤝 Let's Connect
+## 🍽️ RAG-Based AI Assistant
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/kasturitalewar/">
-    <img src="https://img.shields.io/badge/LinkedIn-Kasturi%20Talewar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+A Retrieval-Augmented Generation based chatbot designed to answer questions using a custom knowledge base rather than depending only on the general knowledge of an LLM.
 
-  <a href="mailto:kasturitalewar9@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+The application retrieves the most relevant information from stored documents and provides the retrieved context to the language model for more relevant responses.
+
+### Key Features
+- Custom knowledge-base question answering
+- Text embeddings
+- Semantic similarity search
+- Vector storage using FAISS
+- Context retrieval
+- Gemini-powered responses
+- Interactive Streamlit interface
+
+### Tech Stack
+`Python` `LangChain` `FAISS` `HuggingFace Embeddings` `Google Gemini` `Streamlit`
 
 ---
 
-<p align="center">
-  <b>✨ Learn • Build • Improve • Repeat 🚀</b>
-</p>
+## 💬 Jarvis AI — Gemini Powered Chatbot
+
+A conversational AI assistant built using the Google Gemini API with an interactive Streamlit interface and basic conversational memory.
+
+### Key Features
+- Natural-language conversations
+- Gemini API integration
+- Conversation history
+- Interactive chatbot interface
+- Session-based memory
+
+### Tech Stack
+`Python` `Streamlit` `Google Gemini API`
+
+---
