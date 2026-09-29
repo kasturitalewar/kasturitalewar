@@ -1,4 +1,5 @@
-# Hi 👋, I'm Kasturi Talewar
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Python+Developer;Generative+AI+Enthusiast;Exploring+RAG+%26+Agentic+AI;Always+Learning+Something+New)](https://git.io/typing-svg)
+
 
 ### 🚀 Python Developer | GenAI Enthusiast | Exploring RAG & Cloud
 
